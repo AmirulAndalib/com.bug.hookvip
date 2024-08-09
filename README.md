@@ -1,3 +1,5 @@
+<div align="center">
+
 # Fuck for VIP
 
 <a href="https://github.com/Xposed-Modules-Repo/com.bug.hookvip/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.bug.hookvip/total?label=Downloads"></a>
