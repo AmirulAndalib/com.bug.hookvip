@@ -2,6 +2,7 @@
 
 # Fuck for VIP
 
+[![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.bug.hookvip?label=stars)](https://github.com/Xposed-Modules-Repo/com.bug.hookvip)
 <a href="https://github.com/Xposed-Modules-Repo/com.bug.hookvip/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.bug.hookvip/total?label=Downloads"></a>
 [![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.bug.hookvip)](https://github.com/Xposed-Modules-Repo/com.bug.hookvip/releases)
 <a href="https://t.me/bugccx"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>  
