@@ -1,4 +1,4 @@
-# Fuck for VIP(去你妈的会员)
+# Fuck for VIP
 
 <a href="https://github.com/Xposed-Modules-Repo/com.bug.hookvip/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.bug.hookvip/total?label=Downloads"></a>
 [![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.bug.hookvip)](https://github.com/Xposed-Modules-Repo/com.bug.hookvip/releases)
@@ -23,5 +23,4 @@
 
 ## 须知
 + 该模块是完全免费的，如果你是从任何收费渠道获得，那么恭喜你，你被骗啦！请不遗余力的进行举报🔆
-+ 官方唯一更新渠道：
-   - TG频道：@bugccx
++ 唯一Telegram频道：@bugccx
