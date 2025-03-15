@@ -1,12 +1,12 @@
-name: "问题反馈"
-description: "Hook功能不生效或其他BUG，请选择此项进行反馈。"
+name: "BUG反馈"
+description: "Hook功能不生效或有其他BUG，请选择此项进行反馈。"
 title: "【BUG反馈】 "
 labels: [ "BUG反馈" ]
 body:
   - type: checkboxes
     id: checklist
     attributes:
-      label: ⚠️ **反馈须知**
+      label: ⚠️ 反馈须知
       description: 请在提交前确保你已完成以下检查，否则 Issue 可能会被直接关闭。
       options:
         - label: 我确认我是 **LSPosed 用户**，其他框架不提供支持。
@@ -23,7 +23,7 @@ body:
   - type: input
     id: xposed-framework
     attributes:
-      label: 🛠️ **使用框架**
+      label: 🛠️ 使用框架
       description: 请填写你使用的 LSPosed 版本。
       placeholder: 
     validations:
@@ -32,7 +32,7 @@ body:
   - type: input
     id: device-model
     attributes:
-      label: 📱 **设备型号**
+      label: 📱 设备型号
       description: 请输入你的设备型号。
       placeholder: 例如：一加 12
     validations:
@@ -41,7 +41,7 @@ body:
   - type: input
     id: android-version
     attributes:
-      label: 📟 **Android 版本**
+      label: 📟 Android 版本
       description: 请输入你的 Android 系统版本。
       placeholder: 例如：Android 15
     validations:
@@ -50,7 +50,7 @@ body:
   - type: input
     id: app-name
     attributes:
-      label: 📦 **应用名称**
+      label: 📦 应用名称
       description: 请输入遇到问题的软件名称。
     validations:
       required: true
@@ -58,7 +58,7 @@ body:
   - type: input
     id: app-version
     attributes:
-      label: 🏷 **应用版本号**
+      label: 🏷 应用版本号
       description: 请输入遇到问题的应用版本号。
     validations:
       required: true
@@ -66,7 +66,7 @@ body:
   - type: input
     id: module-version
     attributes:
-      label: 🔧 **模块版本号**
+      label: 🔧 模块版本号
       description: 请输入你使用的模块版本号。
     validations:
       required: true
@@ -74,7 +74,7 @@ body:
   - type: textarea
     id: problem-description
     attributes:
-      label: 📝 **问题描述**
+      label: 📝 问题描述
       description: 请详细描述你遇到的问题，包括复现步骤、预期行为和实际行为。
       render: text
     validations:
@@ -83,7 +83,7 @@ body:
   - type: textarea
     id: issues-screenshot
     attributes:
-      label: 📷 **问题截图/视频**
+      label: 📷 问题截图/视频
       description: 请上传相关截图或视频（必须提供截图或视频，否则 Issue 可能不会被受理）。
       render: file
     validations:
@@ -92,7 +92,7 @@ body:
   - type: textarea
     id: issues-lsposedlog
     attributes:
-      label: 📜 **LSPosed 日志**
+      label: 📜 LSPosed 日志
       description: 请前往 LSPosed 管理器清空日志，然后重新复现问题后，粘贴最新的 LSPosed 模块日志。
       render: file
     validations:
