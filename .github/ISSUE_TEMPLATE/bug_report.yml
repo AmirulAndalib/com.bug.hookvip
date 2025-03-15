@@ -85,7 +85,6 @@ body:
     attributes:
       label: 📷 问题截图/视频
       description: 请上传相关截图或视频（必须提供截图或视频，否则 Issue 可能不会被受理）。
-      render: file
     validations:
       required: true
 
@@ -94,6 +93,5 @@ body:
     attributes:
       label: 📜 LSPosed 日志
       description: 请前往 LSPosed 管理器清空日志，然后重新复现问题后，粘贴最新的 LSPosed 模块日志。
-      render: file
     validations:
       required: true
