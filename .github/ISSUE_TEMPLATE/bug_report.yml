@@ -24,7 +24,7 @@ body:
     id: xposed-framework
     attributes:
       label: 🛠️ 使用框架
-      description: 请填写你使用的 LSPosed 版本。
+      description: 请填写你使用的 LSPosed 版本及分支。
       placeholder: 
     validations:
       required: true
