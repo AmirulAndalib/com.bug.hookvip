@@ -1,7 +1,7 @@
 name: "BUG反馈"
 description: "Hook功能不生效或有其他BUG，请选择此项进行反馈。"
 title: "【BUG反馈】"
-labels: [ "BUG反馈" ]
+labels: [ "Bug/错误" ]
 body:
   - type: checkboxes
     id: checklist
