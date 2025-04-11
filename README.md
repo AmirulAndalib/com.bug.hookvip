@@ -7,14 +7,14 @@
 [![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.bug.hookvip)](https://github.com/Xposed-Modules-Repo/com.bug.hookvip/releases)
 <a href="https://t.me/bugccx"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>  
 
-一个解锁部分软件会员与去广告的模块（详情见模块内）
+一个解锁部分软件会员与拓展功能增强的模块（详情见模块内）
 
 </div>
 
 ----
 
 ### 注意
-- 模块并不是通杀的 你需要下载模块内标注的对应适配版本才可能正常使用模块的功能。
+- **对于适配应用来说** 模块**可能**并不是通杀的 你需要下载模块内标注的对应适配版本才可能正常使用模块的功能。
 
 ----
 
